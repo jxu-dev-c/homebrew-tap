@@ -1,6 +1,6 @@
 cask "just-speak" do
-  version "0.3.0"
-  sha256 "d3a87047b2fedfc11f006847667fdc1b3623a717b8e0be538c7525ded8063828"
+  version "0.4.0"
+  sha256 "018b8736f95c007fd78dc5de7d959d1e504c03dba460cede5583c0d646212a88"
 
   url "https://github.com/jxu-dev-c/just-speak/releases/download/v#{version}/JustSpeak-#{version}.zip"
   name "just-speak"
