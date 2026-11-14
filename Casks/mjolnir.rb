@@ -1,6 +1,6 @@
 cask "mjolnir" do
-  version "0.1.15-mjolnir.1"
-  sha256 "db3202639315a3044a83c16314972c7caead6f73f0e4c1bd1724fff94006a697"
+  version "0.1.15-mjolnir.2"
+  sha256 "93a85becdf4ccceaed6feda6be002d0a91555bb1edb05925cba95afb2db706ee"
 
   url "https://github.com/jxu-dev-c/Mjolnir/releases/download/v#{version}/Mjolnir-#{version}.zip"
   name "Mjolnir"
