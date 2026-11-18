@@ -1,6 +1,6 @@
 cask "tuck" do
-  version "0.1.0"
-  sha256 "596724c3a6d9833500a2701319700c590a9cf10c5c223c42168910fb1b84161c"
+  version "0.2.0"
+  sha256 "4266c4267fc425455c3fc5159bf4b2ef6062aab26153438c5d2ff598ef8e32c8"
 
   url "https://github.com/jxu-dev-c/tuck/releases/download/v#{version}/Tuck-#{version}.zip"
   name "Tuck"
